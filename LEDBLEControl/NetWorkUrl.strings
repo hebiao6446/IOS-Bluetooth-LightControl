@@ -1,0 +1,12 @@
+/* 
+  NetWorkUrl.strings
+  LEDBLEControl
+
+  Created by hebiao on 15-6-28.
+  Copyright (c) 2015年 Developer. All rights reserved.
+*/
+
+
+//// 数据接口的数据源 来自七牛
+
+"URL"="http://7xkc21.com1.z0.glb.clouddn.com/musicdatac.plist";
